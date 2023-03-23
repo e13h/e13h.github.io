@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://evanphilipsmith.com"
 
 # Social networks
-github_username:  evanphilipsmith
+github_username:  e13h
 linkedin_username: e13h
 instagram_username: evanphilipsmith
 twitter_username: evanphilipsmith
