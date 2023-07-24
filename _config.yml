@@ -20,11 +20,11 @@
 
 title: Evan Smith
 author: Evan Smith
-email: me@evanphilipsmith.com
+email: evan@fillup.dev
 description: >- # this means to ignore newlines until "baseurl:"
   One place to learn about me and see what I've worked on.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://evanphilipsmith.com"
+url: "https://fillup.dev"
 
 # Social networks
 github_username:  e13h
